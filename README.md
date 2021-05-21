@@ -13,7 +13,7 @@
 7. Go To Security & Privacy <br />
 8. Click on Little Lock on Bottom Left <br />
 9. Type Your System Password <br />
-10. Click OpenAway <br />
+10. Click Open AnyAway <br />
 11. Then Click Open Server.jar <br />
 12. Go To Eula.txt and change false to true <br />
 13. Click on .command file  <br />
